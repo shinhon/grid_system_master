@@ -1,1 +1,1 @@
-# designer_learning
+# デザイナー勉強会の練習ファイル
